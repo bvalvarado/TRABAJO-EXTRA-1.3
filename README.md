@@ -1,7 +1,10 @@
 # Tutorial de Microsoft Azure, para generación de máquinas virtuales
 
+<br>
 
 **1.	MARCO TEÓRICO**
+
+<br>
 
 **A.	MÁQUINAS VIRTUALES EN AZURE**
 
