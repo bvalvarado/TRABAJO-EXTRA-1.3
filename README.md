@@ -256,18 +256,51 @@ Las siguientes casillas las dejamos por defecto y le damos clic en Siguiente: Re
 
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e22.1.jpg)
 
+<br>
+
+<br>
+
+**MANUAL DE USUARIO**
+
+<br>
+
+Para iniciar la máquina virtual en nuestro computador:
+
+<br>
+
+1. Descargamos el ejecutable que se encuentra en la carpeta "Instaladores" del repositorio y seleccionamos el lugar de descarga lo más aconsejable es descargar en el Escritorio.
 
 
 
 
+<br>
+
+2. Una vez realizada la descarga, le damos doble clic en el Icono que de genera en el Escritorio y clic en Conectar
+
+<br>
+
+3. Ingresamos el usuario y contraseña de la maquina virtual en este caso:
+
+Usuario: BRYAN ALVARADO
+
+Contraseña: Ppgrillo1524
+
+y le damos clic en Aceptar
 
 
 
+<br>
+
+4. La máquina virtual se inicia, si se desea se puede maximizar o minimizar dándole clic en los botones de la parte superior de la ventana, caso contrario para cerrar el ejecutable le damos clic en la "X" del recuadro rojo.
+
+
+<br>
+
+<br>
 
 **4.	BIBLIOGRAFÍA**
 
 - https://azure.microsoft.com/es-es/services/virtual-machines/
-
 
 - https://www.ticportal.es/temas/cloud-computing/microsoft-cloud/microsoft-azure/maquinas-virtuales-azure
 
