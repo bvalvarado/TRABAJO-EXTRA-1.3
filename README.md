@@ -43,6 +43,7 @@ Desventajas en estos sistemas como:
 
 -	Problemas de compatibilidad
 
+<br>
 
 **C.	CLOUD COMPUTING** 
 
