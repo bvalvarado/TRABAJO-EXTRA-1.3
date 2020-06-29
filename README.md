@@ -111,9 +111,9 @@ En la siguiente ventana procedemos a llenar los campos de información en tipo d
 
 En tamaño seleccionamos el tamaño estándar debido a que es la única opción dentro del acuerdo de gratuidad, en esta opción está predeterminado:
 
- Procesador: Intel Xeon R platinum	
+ **Procesador: Intel Xeon R platinum**	
 
-RAM: 3,5 GB
+**RAM: 3,5 GB**
 
 
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e8.jpg)
