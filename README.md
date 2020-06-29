@@ -63,10 +63,10 @@ La computación en la nube utiliza una capa de red para conectar los dispositivo
 
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/m4.jpg)
 
+<br>
 
 **3.	EJECUCIÓN DEL PROYECTO**
 
-<br>
 
 1.	Ingresamos a la página oficial de Microsoft Azure versión para estudiantes en el siguiente link:
 
