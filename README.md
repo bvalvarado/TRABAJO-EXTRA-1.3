@@ -268,39 +268,35 @@ Para iniciar la máquina virtual en nuestro computador:
 
 <br>
 
-1. Descargamos el ejecutable que se encuentra en la carpeta "Instaladores" del repositorio y seleccionamos el lugar de descarga lo más aconsejable es descargar en el Escritorio.
+1. Descargamos el ejecutable que se encuentra en la carpeta "Instaladores" del repositorio, le damos clic en Descargar y elegimos el lugar de descarga lo más aconsejable es descargar en el Escritorio.
 
 
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/mm1.jpg)
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/mm2.jpg)
 
 <br>
 
 2. Una vez realizada la descarga, le damos clic derecho en sobre el archivo RAR y seleccionamos extraer aqui
 
 
-![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/mm2.jpg)
-
-<br>
-
-3. En el icono que aparece le damos doble clic, después clic en Conectar
-
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/mm3.jpg)
 
 <br>
 
-4. Ingresamos el usuario y contraseña de la maquina virtual en este caso:
+
+3. Ingresamos el usuario y contraseña de la maquina virtual y le damos clic en Aceptar, en el caso que aparezcan otras ventanas simplemente le damos clic en conectar y en aceptar respectivamente, para este caso:
 
 Usuario: BRYAN ALVARADO
 
 Contraseña: Ppgrillo1524
 
-y le damos clic en Aceptar
 
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/mm4.jpg)
 
 <br>
 
-5. La máquina virtual se inicia, si se desea se puede maximizar o minimizar dándole clic en los botones de la parte superior de la ventana, caso contrario para cerrar el ejecutable le damos clic en la "X" del recuadro rojo.
+4. La máquina virtual se inicia, si se desea se puede maximizar o minimizar dándole clic en los botones de la parte superior de la ventana, caso contrario para cerrar el ejecutable le damos clic en la "X" del recuadro rojo.
 
 
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/mm5.jpg)
