@@ -79,31 +79,46 @@ La computación en la nube utiliza una capa de red para conectar los dispositivo
 
   ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e1.jpg)
 
+<br>
+
 2.	Aparece una ventana donde se debe validar nuestra identidad por medio de un correo electrónico, este correo puede ser institucional o particular, ingresamos el correo y clic en Siguiente
 
   ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e2.jpg)
+
+<br>
 
 3.	Ingresamos la contraseña correspondiente al correo electrónico proporcionado en el paso anterior y le damos clic en Registrarse
  
   ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e3.jpg)
  
+
+<br>
+
 4.	Aceptamos el acuerdo de suscripción y le damos clic en Registrarse
  
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e4.jpg)
+
+<br>
 
 5.	Una vez que estamos registrados somos re direccionados al portal oficial de Azure, le damos clic en Inicio para iniciar la creación de nuestra máquina virtual 
 
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e5.jpg)
  
+<br>
+
 6.	Nos aparece una nueva ventana, nos dirigimos a la parte superior izquierda y le damos clic en “Crear un recurso” 
 
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e6.jpg)
  
+<br>
+
 7.	En este paso podemos elegir el sistema operativo que deseamos para nuestra máquina virtual.
 Nota: En el caso que la creación de la máquina virtual sea por motivos pedagógicos y se vaya a hacer uso solo mediante la suscripción gratuita, el sistema operativo que se vaya a elegir debe estar dentro de los términos de gratuidad caso contrario se pueden generar costos innecesarios.
  
   ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e7.jpg)
  
+
+<br>
 
 8.	Una vez seleccionado el sistema operativo en este caso: Windows Server 2016
 
@@ -119,16 +134,20 @@ En tamaño seleccionamos el tamaño estándar debido a que es la única opción 
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e8.jpg)
  
 
+<br>
+
 9.	Escribimos un nombre de Usuario y proporcionamos una contraseña la cual nos servirá para ingresar a nuestra máquina virtual una vez que sea creada.
  
   ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e8.1.jpg)
  
+<br>
+
 10.	En la casilla de Reglas de Puerto de entrada seleccionamos todos los recuadros esto va ha permitir que se pueda acceder a la máquina virtual desde cualquier computador, una vez configurado este parámetro le damos clic en Siguiente Discos 
  
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e9.jpg)
 
 
-
+<br>
 
 11.	En tipo de disco del sistema operativo podemos seleccionar cualquiera de las tres opciones siendo el disco duro de mejores características el SSD Premium o disco sólido Premium pero para nuestra implementación se eligió el HDD estándar.
 Las siguientes casillas las dejamos por defecto y le damos clic en Siguiente: Redes
@@ -139,12 +158,14 @@ Las siguientes casillas las dejamos por defecto y le damos clic en Siguiente: Re
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e10.1.jpg)
  
 
- 
+<br>
 
 12.	En esta ventana nos aseguramos que se encuentre activado la casilla de “Habilitar plan básico de forma gratuita”, el resto de casillas las dejamos por defecto y le damos clic en Siguiente: Opciones Avanzadas
  
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e.11.jpg)
 
+
+<br>
 
 13.	Al menos que se necesite que nuestra máquina virtual se desarrolle en un tipo de formato o extensión diferente le damos clic en Siguiente: Etiquetas
 
@@ -152,17 +173,21 @@ Las siguientes casillas las dejamos por defecto y le damos clic en Siguiente: Re
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e12.jpg)
 
 
+<br>
+
 14.	Este vendría a ser el paso final de la interfaz de creación simplemente le damos clic en Siguiente: Revisar y Crear
 
   ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e13.jpg)
 
+
+<br>
 
 15.	En la Ventana de Crear podemos observar todas las características que posee nuestra máquina virtual simplemente le damos clic en CREAR
 
  
   ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e14.jpg)
 
- 
+<br> 
 
 16.	Una vez que la máquina Virtual fue creada podemos observar el mensaje “Se completó la implementación”, nos dirigimos a la parte inferior del y le damos clic en: Ir al Recurso
 
@@ -171,14 +196,14 @@ Las siguientes casillas las dejamos por defecto y le damos clic en Siguiente: Re
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e15.1.jpg) 
  
 
-
+<br>
 
 17.	En esta ventana le damos clic en Conectar y seleccionamos RDP
  
  
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e16.jpg) 
 
- 
+<br> 
 
 18.	Le damos Clic en Descargar archivo RDP y seleccionamos la ubicación donde deseamos que se guarde el archivo en este caso seleccionamos el Escritorio, este archivo es el ejecutable de nuestra máquina virtual
 
@@ -186,26 +211,31 @@ Las siguientes casillas las dejamos por defecto y le damos clic en Siguiente: Re
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e17.jpg)
 
 
+<br>
+
 19.	Una vez descargado el archivo RDP se muestra el siguiente icono le damos doble clic y seleccionamos Conectar
 
- ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e18.jpg) 
+ ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e18.bmp) 
 
+<br>
 
 20.	Ingresamos el Usuario y la contraseña que escribimos al momento de la creación de la máquina virtual y le damos clic en Aceptar
  
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e19.jpg)
  
- ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e19.1.jpg)
- 
+
+<br>
 
 21.	En la nueva ventana emergente le damos clic en Sí y esperamos que la interfaz se cargue.
 
 
  ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e20.jpg)
 
+ ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e20.1.jpg)
 
 
- 
+<br>
+
 
 22.	Como se puede observar la máquina virtual se creó de manera correcta 
 
@@ -216,6 +246,7 @@ Las siguientes casillas las dejamos por defecto y le damos clic en Siguiente: Re
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-3/blob/master/Img/e21.1.jpg)
  
  
+<br>
 
 23.	Como paso final si deseamos ver las características de la máquina virtual nos dirigimos a información del sistema y podemos observar todos los atributos del sistema operativo y la capacidad de memoria RAM de la misma
  
