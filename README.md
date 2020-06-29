@@ -260,7 +260,7 @@ Las siguientes casillas las dejamos por defecto y le damos clic en Siguiente: Re
 
 <br>
 
-**MANUAL DE USUARIO**
+**4. MANUAL DE USUARIO**
 
 <br>
 
@@ -306,7 +306,7 @@ Contraseña: Ppgrillo1524
 
 <br>
 
-**4.	BIBLIOGRAFÍA**
+**5.	BIBLIOGRAFÍA**
 
 - https://azure.microsoft.com/es-es/services/virtual-machines/
 
